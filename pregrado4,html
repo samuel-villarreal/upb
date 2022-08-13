@@ -1,0 +1,35 @@
+<!doctype html>
+
+<head>
+     <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+
+   <link rel="stylesheet" href="/menu.css">
+
+   <title>BI</title>
+</head>
+
+<body bgcolor="#cddf89">
+
+   <font size="6" color="#df7644" face="Tahoma">
+
+      Demo BI - PREGRADO
+
+   </font><br><br>
+
+   <body>
+      <div class="menuContainer"></div>
+   </body>
+   
+   <iframe title="Ingles2.0_roles" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=893d5dc7-634a-4e24-9319-7349d08dc169&autoAuth=true&ctid=35923743-9f3e-4213-a1f4-a5062f64ec4f&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWNlbnRyYWwtdXMtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
+   
+   <nav class="menu">
+      </br>
+   </br>
+      <a href="pregrado.html">--Pregrado--</a>
+      </ul>
+   </nav>
+   <br><br>
+
+</body>
+
+</html>
